@@ -1,0 +1,23 @@
+Setting Up the Git Environment for sfc-home
+
+    Create a New Repository:
+        On GitHub, create a new repository under the Secret Fire Creative organization account. Name it in a way that reflects its purpose, for example, sfc-portfolio.
+        Initialize it with a README, .gitignore (for Node.js if using NextJS), and a license if needed.
+
+    Clone the Repository:
+        Use Git Bash or your preferred terminal to clone the repository to your G:\GitRepos directory. This is a suitable location and there are no inherent issues with it being on a secondary drive.
+
+    Branching Strategy:
+        Adopt a branching strategy that suits your workflow. For a solo project, you might keep it simple:
+            main branch for production-ready code.
+            Feature branches for each new feature or significant change (e.g., feature/new-contact-form).
+            Once a feature is complete and tested, it can be merged into main.
+
+    Commit Practices:
+        Commit small changes with descriptive messages.
+        Push your commits to GitHub regularly to avoid losing work and to keep your remote repository updated.
+
+    GitHub Actions for CI/CD:
+        Set up GitHub Actions to automate your testing and deployment. For instance, when you push to the main branch, it could automatically deploy your site to Vercel.
+
+

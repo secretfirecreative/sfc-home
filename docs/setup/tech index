@@ -3,86 +3,89 @@ sfc-home tech index
 1. JavaScript
 
     Description: A programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. JavaScript enables interactive web pages and is an essential part of web applications.
+    
     Purpose: Used for both front-end and back-end development to create dynamic and responsive web applications.
 
 2. React
 
     Description: An open-source, front-end, JavaScript library for building user interfaces or UI components, maintained by Facebook and a community of individual developers and companies.
+    
     Purpose: To build single-page applications with interactive UIs. React's component-based architecture facilitates the development of large web applications.
 
 3. PostgreSQL
 
     Description: An open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance.
+    
     Purpose: To store, organize, and retrieve data for applications, especially suited for handling a range of workloads from small applications to large Internet-facing applications with many concurrent users.
 
 4. Prisma
 
     Description: An open-source next-generation ORM (Object Relational Mapping) for Node.js and TypeScript, making database access easy with a strong focus on type safety.
+    
     Purpose: To facilitate building and running queries against the database in a more secure and developer-friendly way, replacing traditional ORMs.
 
 5. AWS Lambda
 
     Description: A serverless compute service that lets you run code without provisioning or managing servers, automatically scaling your application by running code in response to events.
+    
     Purpose: To handle backend services or custom logic in a scalable, pay-as-you-go model, integrating with other AWS services.
 
 6. Step Functions
 
     Description: A serverless orchestration service from AWS that makes it easier to coordinate multiple AWS services into serverless workflows.
+   
     Purpose: To build complex, multi-step orchestrations in a visual interface, automating workflows in a reliable and scalable manner.
 
 7. AWS CDK (Cloud Development Kit)
 
     Description: An open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
+    
     Purpose: To enable developers to model and provision AWS resources using familiar programming languages, improving productivity and sharing of cloud applications.
 
 8. API Best Practices
 
     Description: A set of guidelines and methodologies for designing and implementing application programming interfaces (APIs) in a secure, scalable, and efficient manner.
+    
     Purpose: To ensure that APIs are reliable, easy to use, and well-documented, facilitating seamless integration between different software applications.
 
 9. NextJS
 
     Description: An open-source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.
+    
     Purpose: To enhance the performance and user experience of React applications, making them more SEO-friendly and faster to load.
 
 10. Serverless APIs
 
-vbnet
-
-- **Description**: Architectures where the management of servers is abstracted away from the application development process, typically built using cloud services like AWS Lambda.
-- **Purpose**: To allow developers to focus on writing application logic without worrying about server provisioning, scaling, or maintenance.
+    Description: Architectures where the management of servers is abstracted away from the application development process, typically built using cloud services like AWS Lambda.
+    
+    Purpose: To allow developers to focus on writing application logic without worrying about server provisioning, scaling, or maintenance.
 
 11. Cypress and Jest
 
-vbnet
-
-- **Description**: Cypress is an end-to-end testing framework for web applications, while Jest is a JavaScript testing framework for unit and integration tests.
-- **Purpose**: To ensure the reliability and correctness of web applications through automated testing, from individual components to full user experiences.
+    Description: Cypress is an end-to-end testing framework for web applications, while Jest is a JavaScript testing framework for unit and integration tests.
+    
+    Purpose: To ensure the reliability and correctness of web applications through automated testing, from individual components to full user experiences.
 
 12. Vercel
 
-vbnet
+    Description: A platform for front-end frameworks and static sites, built to integrate with your headless content, commerce, or database.
 
-- **Description**: A platform for front-end frameworks and static sites, built to integrate with your headless content, commerce, or database.
-- **Purpose**: To provide deployment and hosting for web applications, enhancing developer experience with features like automatic deployments, previews, and scalable production environments.
+    Purpose: To provide deployment and hosting for web applications, enhancing developer experience with features like automatic deployments, previews, and scalable production environments.
 
 13. GitHub Actions
 
-markdown
+    Description: CI/CD feature of GitHub that allows automation of software workflows with workflows defined in YAML files.
 
-- **Description**: CI/CD feature of GitHub that allows automation of software workflows with workflows defined in YAML files.
-- **Purpose**: To automate the process of software builds, tests, and deployments directly within GitHub, enhancing productivity and integration.
+    Purpose: To automate the process of software builds, tests, and deployments directly within GitHub, enhancing productivity and integration.
 
 14. FFmpeg
 
-less
+    Description: A free and open-source project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams.
 
-- **Description**: A free and open-source project consisting of a vast software suite of libraries and programs for handling video, audio, and other multimedia files and streams.
-- **Purpose**: Commonly used for video transcoding, live streaming, and video editing tasks.
+    Purpose: Commonly used for video transcoding, live streaming, and video editing tasks.
 
 15. Machine Learning, NLP, Scikit, Pandas
 
-sql
-
-- **Description**: Tools and libraries for data science and machine learning. Scikit-learn is a library for machine learning, Pandas for data manipulation and analysis, and NLP (Natural Language Processing) for processing and analyzing human language data.
-- **Purpose**: To enable the development of applications that
+    Description: Tools and libraries for data science and machine learning. Scikit-learn is a library for machine learning, Pandas for data manipulation and analysis, and NLP (Natural Language Processing) for processing and analyzing human language data.
+    
+    Purpose: To enable the development of applications that

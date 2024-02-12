@@ -36,3 +36,76 @@
 7. **Documentation and Community Engagement**
    - Complete the `README.md` and other documentation.
    - Engage with the community for feedback and contributions.
+
+8. **TASKS**
+
+    Project Conception
+        Defined the scope and objectives of the portfolio project.
+        Researched relevant technologies and methodologies to be used.
+
+    Repository Setup
+        Created the sfc-home repository on GitHub under the Secret Fire Creative organization.
+        Cloned the repository to the local system in the desired directory (G:\GitRepos\sfc-home).
+
+    Initial Configuration
+        Set up the repository with a README, LICENSE, and appropriate .gitignore file.
+
+    Documentation Structure
+        Established a docs directory for hosting project documentation.
+        Created an initial project roadmap document template.
+
+    Project Initialization
+        Initialize the project with Next.js framework.
+        Set up linting and formatting tools (e.g., ESLint, Prettier).
+
+    Development Environment Setup
+        Install and configure necessary IDEs and development tools.
+        Configure local development server for the Next.js application.
+
+    Core Frontend Development
+        Design and implement the main layout and navigation structure.
+        Create a landing page with an introduction to Secret Fire Creative.
+        Develop a projects showcase section to display portfolio items.
+        Implement responsive design for cross-device compatibility.
+
+    Backend Integration
+        Select and set up a database system (considering PostgreSQL).
+        Develop serverless functions to handle backend logic.
+        Create API endpoints to connect the frontend with backend services.
+
+    Additional Features Development
+        Build out additional sections such as About, Contact, and Blog.
+        Integrate a CMS (e.g., headless CMS) for blog content management.
+        Add client-side interactivity with React (modals, sliders, etc.).
+
+    Testing Framework Setup
+        Set up Jest for unit testing.
+        Configure Cypress for end-to-end testing.
+        Write initial tests for core components and functions.
+
+    CI/CD Pipeline Configuration
+        Configure GitHub Actions for continuous integration and deployment.
+        Automate deployment to Vercel or an alternative hosting solution.
+
+    Performance Optimization
+        Implement best practices for web performance.
+        Optimize images and assets for faster load times.
+        Conduct SEO optimization for public-facing pages.
+
+    Documentation Expansion
+        Write detailed setup instructions and usage guides.
+        Document the development process and decisions made.
+        Create contribution guidelines for community involvement.
+
+    Community Engagement and Feedback
+        Share the repository with the developer community.
+        Solicit feedback and contributions from peers.
+        Incorporate valuable insights back into the project.
+
+    Launch and Promotion
+        Officially launch the portfolio website.
+        Promote the portfolio through social media and professional networks.
+
+    Maintenance Planning
+        Develop a plan for regular updates and maintenance of the portfolio.
+        Set up monitoring and alerting for website uptime and performance.

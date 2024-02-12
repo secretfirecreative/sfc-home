@@ -1,0 +1,51 @@
+Deliverable Features
+
+    Serverless Movie Listings Platform:
+        
+        Frontend: Use React with Next.js for SSR (Server-Side Rendering) to build a movie listing platform. Implement a responsive UI with modern JavaScript and React best practices.
+        
+        Backend API: Create serverless APIs using AWS Lambda and API Gateway. These APIs will serve movie data to the frontend. Use the AWS CDK to define the cloud infrastructure as code.
+        
+        Database: Use PostgreSQL with Prisma as the ORM to manage and query the database effectively.
+
+    Digital Video Processing Workflow:
+        
+        Transcoding Service: Build a serverless function using AWS Lambda to handle video transcoding with FFmpeg. Use Step Functions to manage the workflow of uploading a video, transcoding it, and storing the output.
+        
+        Data Engineering: Implement feature extraction from the video files using AWS services and Python libraries like Scikit and Pandas. Extract metadata, generate thumbnails, and analyze video content.
+
+    Search and Discovery Feature:
+        
+        Search API: Develop a search API to enable users to find movies based on various criteria. Leverage Elasticsearch for advanced search capabilities.
+       
+        Machine Learning: Use AWS Lambda and machine learning services to provide recommendations and search enhancements based on user behavior and movie metadata.
+
+    Automated Deployment Pipeline:
+        
+        CI/CD: Utilize GitHub Actions to set up a CI/CD pipeline that automates the testing and deployment process. Use Cypress and Jest for end-to-end and unit testing.
+        
+        Infrastructure Updates: Manage infrastructure changes using AWS CDK, allowing you to define cloud resources in a programmable way.
+
+    Performance and Scaling:
+        
+        Content Delivery: Configure AWS CloudFront and CloudFront Functions to distribute content globally with low latency.
+        
+        Caching and Queuing: Implement caching strategies with Amazon RDS and use Amazon SQS for message queuing to handle high-load scenarios.
+
+    Admin Dashboard for Content Management:
+        
+        Interface: Create an admin dashboard using React, allowing content creators to upload and manage their movie listings.
+        
+        Batch Processing: Integrate AWS Batch for running large-scale video processing jobs, managing the compute environment, and scheduling jobs.
+
+    User Authentication and Authorization:
+        
+        Identity Management: Use Amazon Cognito for user authentication and authorization, enabling users to have secure access to the movie listings platform.
+
+The focus of this project is to provide a practical demonstration of my ability to build a complex system single-handedly, exhibiting the following qualities:
+
+    -Mastery of full-stack development, from UI to API to database.
+    -Use of serverless architecture to build scalable and cost-efficient applications.
+    -Application of infrastructure as code for provisioning and managing cloud resources.
+    -Implementation of continuous integration and delivery for automated testing and deployment.
+    -Proficiency in modern JavaScript, cloud services, and software engineering best practices.

@@ -1,0 +1,38 @@
+# Project Roadmap for Secret Fire Creative Portfolio
+
+## Technologies Overview
+
+- **JavaScript/React**: For dynamic and responsive user interfaces.
+- **Next.js**: For server-side rendering and static site generation.
+- **AWS Services**: For scalable cloud-based backend services.
+- **CI/CD with GitHub Actions**: For automated testing and deployment.
+
+## Milestones
+
+1. **Project Setup**
+   - Initialize project repository.
+   - Establish development environment and toolchain.
+
+2. **Core Frontend Development**
+   - Develop the landing page.
+   - Implement the project showcase section.
+
+3. **Backend Integration**
+   - Set up serverless functions for backend logic.
+   - Integrate database with the frontend.
+
+4. **Advanced Features Implementation**
+   - Add interactive elements using React.
+   - Implement a blog section with markdown support.
+
+5. **Testing and Quality Assurance**
+   - Write unit and integration tests for components.
+   - Perform end-to-end testing with Cypress.
+
+6. **Deployment and Optimization**
+   - Set up deployment pipelines with Vercel.
+   - Optimize performance and SEO.
+
+7. **Documentation and Community Engagement**
+   - Complete the `README.md` and other documentation.
+   - Engage with the community for feedback and contributions.

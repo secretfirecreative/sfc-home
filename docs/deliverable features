@@ -42,7 +42,7 @@ Deliverable Features
         
         Identity Management: Use Amazon Cognito for user authentication and authorization, enabling users to have secure access to the movie listings platform.
 
-The focus of this project is to provide a practical demonstration of my ability to build a complex system single-handedly, exhibiting the following qualities:
+The focus of this project is to provide a practical demonstration of my ability to build a complex system, exhibiting the following qualities:
 
     -Mastery of full-stack development, from UI to API to database.
     -Use of serverless architecture to build scalable and cost-efficient applications.
